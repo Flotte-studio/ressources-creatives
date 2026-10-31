@@ -1,0 +1,1565 @@
+{
+ "updated": "2026-10-31",
+ "items": [
+  {
+   "nom": "A Dictionary of Color Combinations Vol. 1",
+   "lien": "https://www.librairievolume.com/product/a-dictionary-of-color-combinations-vol-1",
+   "categorie": "Couleur",
+   "format": "Livre",
+   "tags": [
+    "palette",
+    "couleur",
+    "livres"
+   ],
+   "description": "Recueil de combinaisons de couleurs pour construire ses palettes.",
+   "cout": "Payant",
+   "verif": false
+  },
+  {
+   "nom": "Mascot (Jon Dowling)",
+   "lien": "https://www.fnac.com/a17532200/Jon-Dowling-Mascot",
+   "categorie": "Identité de marque & packaging",
+   "format": "Livre",
+   "tags": [
+    "mascotte",
+    "branding",
+    "illustration",
+    "livres"
+   ],
+   "description": "Livre sur les mascottes dans le design graphique.",
+   "cout": "Payant",
+   "verif": false
+  },
+  {
+   "nom": "Behance",
+   "lien": "https://www.behance.net/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "portfolio",
+    "inspiration",
+    "communauté"
+   ],
+   "description": "Plateforme pour partager ses projets et découvrir ceux d'autres créatifs.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Tom Roberts (illustrateur)",
+   "lien": "https://www.instagram.com/tomrobertsillustration/",
+   "categorie": "Illustration & dessin",
+   "format": "Compte Instagram",
+   "tags": [
+    "illustration",
+    "inspiration"
+   ],
+   "description": "Compte Instagram de l'illustrateur Tom Roberts.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Studio Yuna",
+   "lien": "https://www.youtube.com/@studioyuna",
+   "categorie": "Culture & références",
+   "format": "Chaîne YouTube",
+   "tags": [
+    "tuto",
+    "lifestyle"
+   ],
+   "description": "Chaîne YouTube design lifestyle et tutos.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Vinceeh",
+   "lien": "https://www.youtube.com/@Vinceeh",
+   "categorie": "Culture & références",
+   "format": "Chaîne YouTube",
+   "tags": [
+    "design-espace",
+    "lifestyle"
+   ],
+   "description": "Chaîne YouTube autour du design d'espace.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Arlatan",
+   "lien": "https://www.arlatan.com/fr/",
+   "categorie": "Culture & références",
+   "format": "Lieu",
+   "tags": [
+    "photo",
+    "art-contemporain",
+    "design-espace"
+   ],
+   "description": "Galerie photo et hôtel designé par Jorge Pardo.",
+   "cout": "Sans objet",
+   "verif": false
+  },
+  {
+   "nom": "Posterlad",
+   "lien": "https://www.instagram.com/posterlad/",
+   "categorie": "Inspiration & veille",
+   "format": "Compte Instagram",
+   "tags": [
+    "affiche",
+    "inspiration"
+   ],
+   "description": "Compte Instagram dédié à la création de posters.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Mallows Art Tricks",
+   "lien": "https://www.instagram.com/mallows.art.tricks/",
+   "categorie": "Illustration & dessin",
+   "format": "Compte Instagram",
+   "tags": [
+    "tuto",
+    "illustration",
+    "débutant"
+   ],
+   "description": "Tutos d'illustration sur Instagram.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Proko",
+   "lien": "https://www.youtube.com/@ProkoTV",
+   "categorie": "Illustration & dessin",
+   "format": "Chaîne YouTube",
+   "tags": [
+    "tuto",
+    "dessin",
+    "anatomie"
+   ],
+   "description": "Chaîne de tutos de dessin (figure, anatomie).",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Morpho (Éditions Eyrolles)",
+   "lien": "https://www.editions-eyrolles.com/livre/morpho",
+   "categorie": "Illustration & dessin",
+   "format": "Livre",
+   "tags": [
+    "dessin",
+    "anatomie",
+    "livres"
+   ],
+   "description": "Série de livres sur le dessin morphologique.",
+   "cout": "Payant",
+   "verif": false
+  },
+  {
+   "nom": "Martin Parr – Global Warning (Jeu de Paume)",
+   "lien": "https://jeudepaume.org/evenement/martin-parr-global-warning/",
+   "categorie": "Culture & références",
+   "format": "Exposition",
+   "tags": [
+    "photo",
+    "expo"
+   ],
+   "description": "Exposition photo de Martin Parr. Vérifier les dates.",
+   "cout": "Sans objet",
+   "verif": false
+  },
+  {
+   "nom": "Zoo Art Show",
+   "lien": "https://zooartshow.com/",
+   "categorie": "Culture & références",
+   "format": "Exposition",
+   "tags": [
+    "street-art",
+    "expo"
+   ],
+   "description": "Exposition de street art.",
+   "cout": "Sans objet",
+   "verif": false
+  },
+  {
+   "nom": "Justin Buisson",
+   "lien": "https://www.youtube.com/@JUSTINBUISSON",
+   "categorie": "Culture & références",
+   "format": "Chaîne YouTube",
+   "tags": [
+    "design-graphique",
+    "lifestyle",
+    "tuto"
+   ],
+   "description": "Chaîne YouTube d'un designer : lifestyle et design graphique.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Paula Scher – reportage",
+   "lien": "https://www.youtube.com/watch?v=LCfBYE97rFk",
+   "categorie": "Culture & références",
+   "format": "Vidéo / reportage",
+   "tags": [
+    "design-graphique",
+    "documentaire"
+   ],
+   "description": "Reportage sur la graphiste Paula Scher (« à voir absolument »).",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Christoph Niemann – reportage",
+   "lien": "https://www.youtube.com/watch?v=q_k8fVNzbGU",
+   "categorie": "Culture & références",
+   "format": "Vidéo / reportage",
+   "tags": [
+    "illustration",
+    "documentaire"
+   ],
+   "description": "Reportage sur l'illustrateur Christoph Niemann.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Cosmos",
+   "lien": "https://www.cosmos.so/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "curation",
+    "moodboard",
+    "inspiration"
+   ],
+   "description": "Plateforme de curation visuelle pour collecter et organiser ses références.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Savee",
+   "lien": "https://savee.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "curation",
+    "moodboard",
+    "inspiration"
+   ],
+   "description": "Bibliothèque d'inspiration visuelle à enregistrer en collections.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Fontshare",
+   "lien": "https://www.fontshare.com/",
+   "categorie": "Typographie",
+   "format": "Site / galerie",
+   "tags": [
+    "police-gratuite",
+    "typo",
+    "fonderie"
+   ],
+   "description": "Polices de caractères gratuites de qualité (Indian Type Foundry).",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Stickers.gallery",
+   "lien": "https://stickers.gallery/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "stickers",
+    "galerie",
+    "inspiration"
+   ],
+   "description": "Galerie d'inspiration dédiée aux stickers.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Booooooom",
+   "lien": "https://www.booooooom.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Magazine / média",
+   "tags": [
+    "art-contemporain",
+    "illustration",
+    "photo"
+   ],
+   "description": "Média de découverte d'artistes : art, photo, illustration, design.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "It's Nice That",
+   "lien": "https://www.itsnicethat.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Magazine / média",
+   "tags": [
+    "design-graphique",
+    "illustration",
+    "tendances"
+   ],
+   "description": "Magazine en ligne sur la création contemporaine.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Facade tool",
+   "lien": "https://facadetool.com/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "outil"
+   ],
+   "description": "Outil en ligne (à décrire après test).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Pixabay",
+   "lien": "https://pixabay.com/fr/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "banque-images",
+    "photo",
+    "vecteurs"
+   ],
+   "description": "Banque d'images, vecteurs et vidéos libres de droits.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Godly",
+   "lien": "https://godly.website/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "web-design",
+    "galerie",
+    "tendances"
+   ],
+   "description": "Galerie de sites web au design soigné.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Moshpro",
+   "lien": "https://moshpro.app/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "motion",
+    "vidéo",
+    "outil"
+   ],
+   "description": "Outil d'effets glitch / datamosh sur vidéo (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Pigment (Shape Factory)",
+   "lien": "https://pigment.shapefactory.co/",
+   "categorie": "Couleur",
+   "format": "Outil en ligne",
+   "tags": [
+    "palette",
+    "couleur",
+    "générateur"
+   ],
+   "description": "Outil de palettes de couleurs (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Visual Journal",
+   "lien": "https://visualjournal.it/",
+   "categorie": "Inspiration & veille",
+   "format": "Magazine / média",
+   "tags": [
+    "inspiration",
+    "photo"
+   ],
+   "description": "Publication de culture visuelle (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Nowness",
+   "lien": "https://www.nowness.com/",
+   "categorie": "Culture & références",
+   "format": "Magazine / média",
+   "tags": [
+    "vidéo",
+    "art-contemporain",
+    "mode"
+   ],
+   "description": "Média de contenus vidéo : culture, art, mode, design (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Maneken",
+   "lien": "https://maneken.app/",
+   "categorie": "Illustration & dessin",
+   "format": "Outil en ligne",
+   "tags": [
+    "référence-pose",
+    "dessin",
+    "3d"
+   ],
+   "description": "Mannequin 3D à poser pour dessiner d'après modèle (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "LS Graphics",
+   "lien": "https://www.ls.graphics/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "assets",
+    "textures"
+   ],
+   "description": "Ressources graphiques (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Minimal Mockups",
+   "lien": "https://www.minimalmockups.com/",
+   "categorie": "Mockups & présentation",
+   "format": "Site / galerie",
+   "tags": [
+    "mockup",
+    "présentation"
+   ],
+   "description": "Mockups minimalistes pour présenter ses projets.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Mockuuups Studio",
+   "lien": "https://mockuuups.studio/",
+   "categorie": "Mockups & présentation",
+   "format": "Outil en ligne",
+   "tags": [
+    "mockup",
+    "présentation",
+    "web-design"
+   ],
+   "description": "Mockups d'écrans et d'appareils pour présenter des projets digitaux.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Awwwards",
+   "lien": "https://www.awwwards.com/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "web-design",
+    "galerie",
+    "sites-awards"
+   ],
+   "description": "Référence des sites web primés, avec études de cas.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Fonts In Use",
+   "lien": "https://fontsinuse.com/",
+   "categorie": "Typographie",
+   "format": "Site / galerie",
+   "tags": [
+    "typo",
+    "références",
+    "archives"
+   ],
+   "description": "Archive d'usages réels de polices dans des projets (affiches, packagings, sites…).",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Fontbrief",
+   "lien": "https://www.fontbrief.com/fontbrief",
+   "categorie": "Typographie",
+   "format": "Site / galerie",
+   "tags": [
+    "typo"
+   ],
+   "description": "Ressource typographique (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Interactive typography cheatsheet",
+   "lien": "https://www.are.na/block/24159684",
+   "categorie": "Typographie",
+   "format": "Site / galerie",
+   "tags": [
+    "typo",
+    "mémo",
+    "débutant"
+   ],
+   "description": "Aide-mémoire interactif de typographie, hébergé sur Are.na.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "The Art Scavenger",
+   "lien": "https://www.theartscavenger.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "art-contemporain",
+    "curation"
+   ],
+   "description": "Curation d'art et de design (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Mr Mockup",
+   "lien": "https://mrmockup.com/",
+   "categorie": "Mockups & présentation",
+   "format": "Site / galerie",
+   "tags": [
+    "mockup",
+    "présentation"
+   ],
+   "description": "Bibliothèque de mockups.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Dezeen",
+   "lien": "https://www.dezeen.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Magazine / média",
+   "tags": [
+    "architecture",
+    "design-espace",
+    "design-produit"
+   ],
+   "description": "Magazine d'architecture et de design.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Siteinspire",
+   "lien": "https://www.siteinspire.com/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "web-design",
+    "galerie"
+   ],
+   "description": "Galerie de sites web bien conçus.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Curation of Curations",
+   "lien": "https://www.curationofcurations.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "curation",
+    "inspiration"
+   ],
+   "description": "Annuaire de sources d'inspiration (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Antlii",
+   "lien": "https://antlii.work/Index",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "portfolio",
+    "web-design"
+   ],
+   "description": "Portfolio de travaux (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Blkmarket",
+   "lien": "https://blkmarket.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "curation"
+   ],
+   "description": "À décrire après test. Version beta : https://beta.blkmarket.com/",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Designspiration",
+   "lien": "https://www.designspiration.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "moodboard",
+    "inspiration",
+    "galerie"
+   ],
+   "description": "Moteur d'inspiration visuelle : images, couleurs, collections.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Land-book",
+   "lien": "https://land-book.com/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "landing-page",
+    "web-design",
+    "galerie"
+   ],
+   "description": "Galerie de landing pages et de sites web.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Velvetyne",
+   "lien": "https://velvetyne.fr/",
+   "categorie": "Typographie",
+   "format": "Site / galerie",
+   "tags": [
+    "police-gratuite",
+    "fonderie",
+    "typo"
+   ],
+   "description": "Fonderie typographique française, polices libres et open source.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "&Walsh",
+   "lien": "https://andwalsh.com/work/",
+   "categorie": "Identité de marque & packaging",
+   "format": "Site / galerie",
+   "tags": [
+    "branding",
+    "design-graphique",
+    "portfolio"
+   ],
+   "description": "Projets du studio de design &Walsh.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Divisare",
+   "lien": "https://divisare.com/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "architecture",
+    "photo"
+   ],
+   "description": "Plateforme de projets d'architecture.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Dribbble",
+   "lien": "https://dribbble.com/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "portfolio",
+    "illustration",
+    "inspiration",
+    "communauté"
+   ],
+   "description": "Communauté où les designers partagent leurs créations.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Brand Site Design",
+   "lien": "https://www.brandsite.design/",
+   "categorie": "Identité de marque & packaging",
+   "format": "Site / galerie",
+   "tags": [
+    "branding",
+    "web-design"
+   ],
+   "description": "Galerie de sites de marque (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Spline",
+   "lien": "https://spline.design/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "3d",
+    "web-design",
+    "motion"
+   ],
+   "description": "Outil de design 3D interactif dans le navigateur.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Soot Spiral",
+   "lien": "https://spiral.soot.com/spiral",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "expérimental"
+   ],
+   "description": "Expérimentation en ligne (à décrire après test).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Directors Library",
+   "lien": "https://directorslibrary.com/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "cinéma",
+    "vidéo",
+    "références"
+   ],
+   "description": "Bibliothèque de films et vidéos de réalisateurs (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "The Brand Identity",
+   "lien": "https://the-brandidentity.com/",
+   "categorie": "Identité de marque & packaging",
+   "format": "Magazine / média",
+   "tags": [
+    "branding",
+    "identité-visuelle",
+    "magazine"
+   ],
+   "description": "Média sur l'identité de marque et le design de marque.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "The Creative Independent",
+   "lien": "https://thecreativeindependent.com/",
+   "categorie": "Culture & références",
+   "format": "Magazine / média",
+   "tags": [
+    "interview",
+    "art-contemporain"
+   ],
+   "description": "Entretiens et ressources autour de la pratique créative.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "The Criterion Collection",
+   "lien": "https://www.criterion.com/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "cinéma"
+   ],
+   "description": "Catalogue de films classiques et d'auteur.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Scan-dia",
+   "lien": "https://tools.dia.tv/scan/index.html",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "outil"
+   ],
+   "description": "Outil en ligne (à décrire après test).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "T Magazine",
+   "lien": "https://t-magazine.com/",
+   "categorie": "Culture & références",
+   "format": "Magazine / média",
+   "tags": [
+    "mode",
+    "art-contemporain",
+    "magazine"
+   ],
+   "description": "Magazine culturel : mode, art, design.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "032c",
+   "lien": "https://www.032c.com/",
+   "categorie": "Culture & références",
+   "format": "Magazine / média",
+   "tags": [
+    "mode",
+    "art-contemporain",
+    "magazine"
+   ],
+   "description": "Magazine de culture contemporaine (art, mode, design).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Resource Boy",
+   "lien": "https://resourceboy.com/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "mockup",
+    "assets"
+   ],
+   "description": "Ressources graphiques : mockups, polices, textures.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Notefolio",
+   "lien": "https://notefolio.net/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "portfolio",
+    "communauté"
+   ],
+   "description": "Plateforme de portfolios créatifs.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Sublime",
+   "lien": "https://sublime.app/",
+   "categorie": "Inspiration & veille",
+   "format": "Outil en ligne",
+   "tags": [
+    "curation",
+    "moodboard"
+   ],
+   "description": "Outil pour collecter et relier ses idées et références.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Setmargins",
+   "lien": "https://www.setmargins.press/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "édition",
+    "livres"
+   ],
+   "description": "Presse indépendante autour de l'édition (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Sternberg Press",
+   "lien": "https://www.sternberg-press.com/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "édition",
+    "art-contemporain",
+    "livres"
+   ],
+   "description": "Maison d'édition d'art et de théorie.",
+   "cout": "Payant",
+   "verif": false
+  },
+  {
+   "nom": "Socratica",
+   "lien": "https://socratica.info/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "à-classer"
+   ],
+   "description": "À décrire après test.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Atlas Obscura",
+   "lien": "https://www.atlasobscura.com/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "inspiration",
+    "voyage"
+   ],
+   "description": "Guide des lieux insolites à travers le monde.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Public.work (by Cosmos)",
+   "lien": "https://www.cosmos.so/public-work",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "curation",
+    "portfolio",
+    "inspiration"
+   ],
+   "description": "Section de Cosmos consacrée au travail de créatifs (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Radio Garden",
+   "lien": "https://radio.garden/",
+   "categorie": "Culture & références",
+   "format": "Outil en ligne",
+   "tags": [
+    "radio",
+    "musique",
+    "inspiration"
+   ],
+   "description": "Écouter des radios du monde entier sur un globe.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Project Gutenberg",
+   "lien": "https://www.gutenberg.org/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "livres",
+    "archives"
+   ],
+   "description": "Bibliothèque de livres du domaine public.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Footer Design",
+   "lien": "https://www.footer.design/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "web-design",
+    "galerie"
+   ],
+   "description": "Galerie d'exemples de pieds de page de sites web.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Labbet",
+   "lien": "",
+   "categorie": "Inspiration & veille",
+   "format": "App",
+   "tags": [
+    "à-classer"
+   ],
+   "description": "App iPhone, lien non fourni dans la liste d'origine.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Branding Style Guides",
+   "lien": "https://brandingstyleguides.com/",
+   "categorie": "Identité de marque & packaging",
+   "format": "Site / galerie",
+   "tags": [
+    "branding",
+    "identité-visuelle",
+    "références"
+   ],
+   "description": "Collection de chartes graphiques de marques.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Creatoom",
+   "lien": "https://creatoom.com/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "assets",
+    "mockup"
+   ],
+   "description": "Ressources de design (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Unblast",
+   "lien": "https://unblast.com/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "assets",
+    "mockup",
+    "textures"
+   ],
+   "description": "Ressources de design gratuites et premium (mockups, polices, textures…).",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Cargo",
+   "lien": "https://cargo.site/",
+   "categorie": "Web design & portfolio",
+   "format": "Outil en ligne",
+   "tags": [
+    "portfolio",
+    "no-code"
+   ],
+   "description": "Créateur de sites portfolio pour créatifs.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Humaaans",
+   "lien": "https://www.humaaans.com/",
+   "categorie": "Assets & banques libres",
+   "format": "Outil en ligne",
+   "tags": [
+    "illustration",
+    "personnage",
+    "vecteurs"
+   ],
+   "description": "Personnages illustrés à assembler, exportables en vectoriel.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Letterform Archive",
+   "lien": "https://letterformarchive.org/",
+   "categorie": "Typographie",
+   "format": "Site / galerie",
+   "tags": [
+    "typo",
+    "archives",
+    "lettering"
+   ],
+   "description": "Archive de lettrage et de typographie.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Bodies in Motion",
+   "lien": "https://bodiesinmotion.photo/",
+   "categorie": "Illustration & dessin",
+   "format": "Site / galerie",
+   "tags": [
+    "référence-pose",
+    "dessin",
+    "photo"
+   ],
+   "description": "Photos de corps en mouvement comme référence de pose (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Reference Angle",
+   "lien": "https://referenceangle.com/",
+   "categorie": "Illustration & dessin",
+   "format": "Site / galerie",
+   "tags": [
+    "référence-pose",
+    "dessin"
+   ],
+   "description": "Références de poses et d'angles pour le dessin (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Film Grab",
+   "lien": "https://film-grab.com/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "cinéma",
+    "références",
+    "photo"
+   ],
+   "description": "Captures d'images de films (cadrage, lumière, palettes). Lien corrigé depuis « Filmgrab.com ».",
+   "cout": "Gratuit",
+   "verif": true
+  },
+  {
+   "nom": "Practice Drawing This",
+   "lien": "https://practicedrawingthis.com/",
+   "categorie": "Illustration & dessin",
+   "format": "Site / galerie",
+   "tags": [
+    "dessin"
+   ],
+   "description": "Ressource d'entraînement au dessin (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Sketchfab",
+   "lien": "https://sketchfab.com/",
+   "categorie": "3D & outils numériques",
+   "format": "Site / galerie",
+   "tags": [
+    "3d",
+    "références"
+   ],
+   "description": "Bibliothèque de modèles 3D à visualiser et télécharger.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Cobalt",
+   "lien": "https://cobalt.tools/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "outil",
+    "vidéo"
+   ],
+   "description": "Outil pour télécharger des médias depuis un lien (respecter les droits d'auteur).",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Tv.garden",
+   "lien": "https://famelack.com/",
+   "categorie": "Culture & références",
+   "format": "Outil en ligne",
+   "tags": [
+    "vidéo",
+    "inspiration"
+   ],
+   "description": "Chaînes de télévision du monde entier (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Radiooooo",
+   "lien": "https://app.radiooooo.com/",
+   "categorie": "Culture & références",
+   "format": "Outil en ligne",
+   "tags": [
+    "musique",
+    "inspiration"
+   ],
+   "description": "Voyager dans la musique par pays et par décennie.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Mysketchbooth",
+   "lien": "https://mysketchbooth.com/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "photo",
+    "outil"
+   ],
+   "description": "Photomaton vintage en ligne.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "wPlace",
+   "lien": "https://wplace.live/",
+   "categorie": "Culture & références",
+   "format": "Outil en ligne",
+   "tags": [
+    "pixel-art",
+    "communauté",
+    "expérimental"
+   ],
+   "description": "Carte du monde collaborative en pixel art.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "First in Architecture",
+   "lien": "https://www.firstinarchitecture.co.uk/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "architecture",
+    "références"
+   ],
+   "description": "Ressource d'architecture (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Pimp My Drawing",
+   "lien": "https://pimpmydrawing.com/",
+   "categorie": "Illustration & dessin",
+   "format": "Outil en ligne",
+   "tags": [
+    "dessin",
+    "outil"
+   ],
+   "description": "Outil pour retravailler ses dessins (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Trendlist",
+   "lien": "https://trendlist.org/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "tendances",
+    "design-graphique",
+    "galerie"
+   ],
+   "description": "Répertoire des tendances actuelles du design graphique.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Obys Library",
+   "lien": "https://library.obys.agency/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "web-design",
+    "motion",
+    "références"
+   ],
+   "description": "Bibliothèque de ressources web et d'animation de l'agence Obys.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Pointillizer",
+   "lien": "https://pointillizer.org/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "générateur",
+    "illustration"
+   ],
+   "description": "Transforme une image en composition de points (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Mixamo",
+   "lien": "https://www.mixamo.com/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "3d",
+    "personnage",
+    "motion"
+   ],
+   "description": "Personnages 3D et animations prêts à l'emploi (Adobe).",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Character Design References",
+   "lien": "https://characterdesignreferences.com/",
+   "categorie": "Illustration & dessin",
+   "format": "Site / galerie",
+   "tags": [
+    "personnage",
+    "références",
+    "dessin"
+   ],
+   "description": "Références de character design.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Just Sketch Me",
+   "lien": "https://justsketch.me/",
+   "categorie": "Illustration & dessin",
+   "format": "Outil en ligne",
+   "tags": [
+    "dessin",
+    "outil"
+   ],
+   "description": "À décrire après test.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Same Energy",
+   "lien": "https://same.energy/",
+   "categorie": "Inspiration & veille",
+   "format": "Outil en ligne",
+   "tags": [
+    "recherche-visuelle",
+    "moodboard",
+    "inspiration"
+   ],
+   "description": "Moteur de recherche d'images par similarité visuelle.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Pacdora",
+   "lien": "https://www.pacdora.com/fr",
+   "categorie": "Mockups & présentation",
+   "format": "Outil en ligne",
+   "tags": [
+    "packaging",
+    "mockup",
+    "3d"
+   ],
+   "description": "Mockups et gabarits de packaging en 3D.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Hikaku Sitatter",
+   "lien": "https://hikaku-sitatter.com/en/",
+   "categorie": "Illustration & dessin",
+   "format": "Outil en ligne",
+   "tags": [
+    "dessin",
+    "références",
+    "outil"
+   ],
+   "description": "Compare les tailles de personnes et d'objets : utile pour tenir les proportions entre personnages.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Cinema Palette",
+   "lien": "https://cinema-palette.web.app/",
+   "categorie": "Couleur",
+   "format": "Outil en ligne",
+   "tags": [
+    "palette",
+    "cinéma",
+    "couleur"
+   ],
+   "description": "Palettes de couleurs extraites de films.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Risotto Prints",
+   "lien": "https://risottostudio.com/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "patterns",
+    "impression"
+   ],
+   "description": "Motifs et prints du studio Risotto (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Wada Sanzo Colors",
+   "lien": "https://www.wada-sanzo-colors.com/combinations/classic/all",
+   "categorie": "Couleur",
+   "format": "Site / galerie",
+   "tags": [
+    "palette",
+    "couleur"
+   ],
+   "description": "Combinaisons de couleurs inspirées du dictionnaire de Sanzo Wada.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Zeel Project",
+   "lien": "https://zeelproject.com/fr/",
+   "categorie": "Inspiration & veille",
+   "format": "Site / galerie",
+   "tags": [
+    "à-classer"
+   ],
+   "description": "À décrire après test.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "3D Brute",
+   "lien": "https://3dbrute.com/",
+   "categorie": "3D & outils numériques",
+   "format": "Site / galerie",
+   "tags": [
+    "3d",
+    "assets"
+   ],
+   "description": "À décrire après test.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "International Library of Fashion Research",
+   "lien": "https://fashionresearchlibrary.com/",
+   "categorie": "Culture & références",
+   "format": "Site / galerie",
+   "tags": [
+    "mode",
+    "archives",
+    "références"
+   ],
+   "description": "Bibliothèque de recherche sur la mode (à confirmer).",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "The Dieline",
+   "lien": "https://thedieline.com/",
+   "categorie": "Identité de marque & packaging",
+   "format": "Magazine / média",
+   "tags": [
+    "packaging",
+    "branding",
+    "magazine"
+   ],
+   "description": "Média de référence sur le design de packaging.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Death to Stock",
+   "lien": "https://www.deathtothestockphoto.com/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "banque-images",
+    "photo"
+   ],
+   "description": "Banque d'images alternative aux stocks classiques.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Are.na",
+   "lien": "https://www.are.na/",
+   "categorie": "Inspiration & veille",
+   "format": "Outil en ligne",
+   "tags": [
+    "curation",
+    "moodboard",
+    "communauté"
+   ],
+   "description": "Plateforme pour collecter et relier ses références.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "The Design Observer",
+   "lien": "https://designobserver.com/",
+   "categorie": "Culture & références",
+   "format": "Magazine / média",
+   "tags": [
+    "design-graphique",
+    "essais"
+   ],
+   "description": "Magazine de critique et d'essais sur le design.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "SVG Backgrounds",
+   "lien": "https://www.svgbackgrounds.com/category/gradient/",
+   "categorie": "Assets & banques libres",
+   "format": "Site / galerie",
+   "tags": [
+    "dégradés",
+    "vecteurs",
+    "web-design"
+   ],
+   "description": "Arrière-plans et dégradés SVG.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Coolors",
+   "lien": "https://coolors.co/",
+   "categorie": "Couleur",
+   "format": "Outil en ligne",
+   "tags": [
+    "palette",
+    "couleur",
+    "générateur"
+   ],
+   "description": "Générateur de palettes de couleurs.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Shader Gradient",
+   "lien": "https://shadergradient.co/",
+   "categorie": "3D & outils numériques",
+   "format": "Outil en ligne",
+   "tags": [
+    "dégradés",
+    "3d",
+    "web-design"
+   ],
+   "description": "Génère des dégradés 3D animés.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Foleo Designs",
+   "lien": "https://www.foleo.design/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "à-classer"
+   ],
+   "description": "À décrire après test.",
+   "cout": "À vérifier",
+   "verif": true
+  },
+  {
+   "nom": "Readymag",
+   "lien": "https://readymag.com/",
+   "categorie": "Web design & portfolio",
+   "format": "Outil en ligne",
+   "tags": [
+    "web-design",
+    "portfolio",
+    "édition",
+    "no-code"
+   ],
+   "description": "Création de sites et publications interactives sans code.",
+   "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "nom": "Httpster",
+   "lien": "https://httpster.net/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
+   "tags": [
+    "web-design",
+    "galerie"
+   ],
+   "description": "Galerie de sites web inspirants.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "nom": "Milkshake",
+   "lien": "https://milkshake.app/",
+   "categorie": "Web design & portfolio",
+   "format": "Outil en ligne",
+   "tags": [
+    "portfolio",
+    "no-code"
+   ],
+   "description": "Alternative gratuite à Linktree : un site en lien unique.",
+   "cout": "Freemium",
+   "verif": false
+  }
+ ]
+}
