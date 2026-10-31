@@ -128,10 +128,9 @@ function render() {
   const res = items.filter(matches);
   $("count").textContent = res.length + (res.length > 1 ? " ressources" : " ressource") + " sur " + items.length;
   if (!res.length) { const li = el("li", "", "Rien ne correspond. Essaie un autre mot ou réinitialise les filtres."); li.style.display = "block"; list.appendChild(li); return; }
-  const w = Math.max(2, String(res.length).length);
-  res.forEach((i, n) => {
+  res.forEach(i => {
     const li = el("li"), body = el("div"); const url = safeUrl(i.lien);
-    li.appendChild(el("span", "num", String(n + 1).padStart(w, "0")));
+    li.appendChild(el("span", "num", i.n ? String(i.n).padStart(3, "0") : "—"));
     const name = url ? el("a", "name", i.nom) : el("span", "name", i.nom);
     if (url) { name.href = url; name.target = "_blank"; name.rel = "noopener noreferrer"; }
     body.appendChild(name);
@@ -154,7 +153,7 @@ $("reset").addEventListener("click", () => {
 });
 
 fetch("data.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
-  items = d.items.sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
+  items = d.items.sort((a, b) => ((a.n || 1e9) - (b.n || 1e9)) || a.nom.localeCompare(b.nom, "fr"));
   $("upd").textContent = new Date(d.updated + "T12:00:00").toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" });
   $("upd").dateTime = d.updated;
   buildControls(); render();
