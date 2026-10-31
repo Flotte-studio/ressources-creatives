@@ -2,7 +2,7 @@
  "updated": "2026-10-31",
  "items": [
   {
-   "n": null,
+   "n": 1,
    "nom": "A Dictionary of Color Combinations Vol. 1",
    "lien": "https://www.librairievolume.com/product/a-dictionary-of-color-combinations-vol-1",
    "categorie": "Couleur",
@@ -17,7 +17,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 2,
    "nom": "Mascot (Jon Dowling)",
    "lien": "https://www.fnac.com/a17532200/Jon-Dowling-Mascot",
    "categorie": "Identité de marque & packaging",
@@ -33,7 +33,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 3,
    "nom": "Behance",
    "lien": "https://www.behance.net/",
    "categorie": "Web design & portfolio",
@@ -48,7 +48,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 4,
    "nom": "Tom Roberts (illustrateur)",
    "lien": "https://www.instagram.com/tomrobertsillustration/",
    "categorie": "Illustration & dessin",
@@ -62,7 +62,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 5,
    "nom": "Studio Yuna",
    "lien": "https://www.youtube.com/@studioyuna",
    "categorie": "Culture & références",
@@ -76,7 +76,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 6,
    "nom": "Vinceeh",
    "lien": "https://www.youtube.com/@Vinceeh",
    "categorie": "Culture & références",
@@ -90,7 +90,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 7,
    "nom": "Arlatan",
    "lien": "https://www.arlatan.com/fr/",
    "categorie": "Culture & références",
@@ -105,7 +105,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 8,
    "nom": "Posterlad",
    "lien": "https://www.instagram.com/posterlad/",
    "categorie": "Inspiration & veille",
@@ -119,7 +119,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 9,
    "nom": "Mallows Art Tricks",
    "lien": "https://www.instagram.com/mallows.art.tricks/",
    "categorie": "Illustration & dessin",
@@ -134,7 +134,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 10,
    "nom": "Proko",
    "lien": "https://www.youtube.com/@ProkoTV",
    "categorie": "Illustration & dessin",
@@ -149,7 +149,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 11,
    "nom": "Morpho (Éditions Eyrolles)",
    "lien": "https://www.editions-eyrolles.com/livre/morpho",
    "categorie": "Illustration & dessin",
@@ -164,7 +164,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 12,
    "nom": "Martin Parr – Global Warning (Jeu de Paume)",
    "lien": "https://jeudepaume.org/evenement/martin-parr-global-warning/",
    "categorie": "Culture & références",
@@ -178,7 +178,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 13,
    "nom": "Zoo Art Show",
    "lien": "https://zooartshow.com/",
    "categorie": "Culture & références",
@@ -192,7 +192,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 14,
    "nom": "Justin Buisson",
    "lien": "https://www.youtube.com/@JUSTINBUISSON",
    "categorie": "Culture & références",
@@ -207,7 +207,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 15,
    "nom": "Paula Scher – reportage",
    "lien": "https://www.youtube.com/watch?v=LCfBYE97rFk",
    "categorie": "Culture & références",
@@ -221,7 +221,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 16,
    "nom": "Christoph Niemann – reportage",
    "lien": "https://www.youtube.com/watch?v=q_k8fVNzbGU",
    "categorie": "Culture & références",
@@ -235,7 +235,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 17,
    "nom": "Cosmos",
    "lien": "https://www.cosmos.so/",
    "categorie": "Inspiration & veille",
@@ -250,7 +250,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 18,
    "nom": "Savee",
    "lien": "https://savee.com/",
    "categorie": "Inspiration & veille",
@@ -265,7 +265,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 19,
    "nom": "Fontshare",
    "lien": "https://www.fontshare.com/",
    "categorie": "Typographie",
@@ -280,7 +280,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 20,
    "nom": "Stickers.gallery",
    "lien": "https://stickers.gallery/",
    "categorie": "Inspiration & veille",
@@ -295,7 +295,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 21,
    "nom": "Booooooom",
    "lien": "https://www.booooooom.com/",
    "categorie": "Inspiration & veille",
@@ -310,7 +310,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 22,
    "nom": "It's Nice That",
    "lien": "https://www.itsnicethat.com/",
    "categorie": "Inspiration & veille",
@@ -325,7 +325,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 23,
    "nom": "Facade tool",
    "lien": "https://facadetool.com/",
    "categorie": "3D & outils numériques",
@@ -338,7 +338,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 24,
    "nom": "Pixabay",
    "lien": "https://pixabay.com/fr/",
    "categorie": "Assets & banques libres",
@@ -353,7 +353,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 25,
    "nom": "Godly",
    "lien": "https://godly.website/",
    "categorie": "Web design & portfolio",
@@ -368,7 +368,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 26,
    "nom": "Moshpro",
    "lien": "https://moshpro.app/",
    "categorie": "3D & outils numériques",
@@ -383,7 +383,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 27,
    "nom": "Pigment (Shape Factory)",
    "lien": "https://pigment.shapefactory.co/",
    "categorie": "Couleur",
@@ -398,7 +398,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 28,
    "nom": "Visual Journal",
    "lien": "https://visualjournal.it/",
    "categorie": "Inspiration & veille",
@@ -412,7 +412,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 29,
    "nom": "Nowness",
    "lien": "https://www.nowness.com/",
    "categorie": "Culture & références",
@@ -427,7 +427,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 30,
    "nom": "Maneken",
    "lien": "https://maneken.app/",
    "categorie": "Illustration & dessin",
@@ -442,7 +442,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 31,
    "nom": "LS Graphics",
    "lien": "https://www.ls.graphics/",
    "categorie": "Assets & banques libres",
@@ -456,7 +456,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 32,
    "nom": "Minimal Mockups",
    "lien": "https://www.minimalmockups.com/",
    "categorie": "Mockups & présentation",
@@ -470,7 +470,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 33,
    "nom": "Mockuuups Studio",
    "lien": "https://mockuuups.studio/",
    "categorie": "Mockups & présentation",
@@ -485,7 +485,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 34,
    "nom": "Awwwards",
    "lien": "https://www.awwwards.com/",
    "categorie": "Web design & portfolio",
@@ -500,7 +500,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 35,
    "nom": "Fonts In Use",
    "lien": "https://fontsinuse.com/",
    "categorie": "Typographie",
@@ -515,7 +515,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 36,
    "nom": "Fontbrief",
    "lien": "https://www.fontbrief.com/fontbrief",
    "categorie": "Typographie",
@@ -528,7 +528,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 37,
    "nom": "Interactive typography cheatsheet",
    "lien": "https://www.are.na/block/24159684",
    "categorie": "Typographie",
@@ -543,7 +543,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 38,
    "nom": "The Art Scavenger",
    "lien": "https://www.theartscavenger.com/",
    "categorie": "Inspiration & veille",
@@ -557,7 +557,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 39,
    "nom": "Mr Mockup",
    "lien": "https://mrmockup.com/",
    "categorie": "Mockups & présentation",
@@ -571,7 +571,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 40,
    "nom": "Dezeen",
    "lien": "https://www.dezeen.com/",
    "categorie": "Inspiration & veille",
@@ -586,7 +586,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 41,
    "nom": "Siteinspire",
    "lien": "https://www.siteinspire.com/",
    "categorie": "Web design & portfolio",
@@ -600,7 +600,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 42,
    "nom": "Curation of Curations",
    "lien": "https://www.curationofcurations.com/",
    "categorie": "Inspiration & veille",
@@ -614,7 +614,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 43,
    "nom": "Antlii",
    "lien": "https://antlii.work/Index",
    "categorie": "Web design & portfolio",
@@ -628,7 +628,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 44,
    "nom": "Blkmarket",
    "lien": "https://blkmarket.com/",
    "categorie": "Inspiration & veille",
@@ -641,7 +641,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 45,
    "nom": "Designspiration",
    "lien": "https://www.designspiration.com/",
    "categorie": "Inspiration & veille",
@@ -656,7 +656,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 46,
    "nom": "Land-book",
    "lien": "https://land-book.com/",
    "categorie": "Web design & portfolio",
@@ -671,7 +671,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 47,
    "nom": "Velvetyne",
    "lien": "https://velvetyne.fr/",
    "categorie": "Typographie",
@@ -686,7 +686,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 48,
    "nom": "&Walsh",
    "lien": "https://andwalsh.com/work/",
    "categorie": "Identité de marque & packaging",
@@ -701,7 +701,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 49,
    "nom": "Divisare",
    "lien": "https://divisare.com/",
    "categorie": "Inspiration & veille",
@@ -715,7 +715,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 50,
    "nom": "Dribbble",
    "lien": "https://dribbble.com/",
    "categorie": "Web design & portfolio",
@@ -731,7 +731,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 51,
    "nom": "Brand Site Design",
    "lien": "https://www.brandsite.design/",
    "categorie": "Identité de marque & packaging",
@@ -745,7 +745,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 52,
    "nom": "Spline",
    "lien": "https://spline.design/",
    "categorie": "3D & outils numériques",
@@ -760,7 +760,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 53,
    "nom": "Soot Spiral",
    "lien": "https://spiral.soot.com/spiral",
    "categorie": "3D & outils numériques",
@@ -773,7 +773,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 54,
    "nom": "Directors Library",
    "lien": "https://directorslibrary.com/",
    "categorie": "Culture & références",
@@ -788,7 +788,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 55,
    "nom": "The Brand Identity",
    "lien": "https://the-brandidentity.com/",
    "categorie": "Identité de marque & packaging",
@@ -803,7 +803,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 56,
    "nom": "The Creative Independent",
    "lien": "https://thecreativeindependent.com/",
    "categorie": "Culture & références",
@@ -817,7 +817,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 57,
    "nom": "The Criterion Collection",
    "lien": "https://www.criterion.com/",
    "categorie": "Culture & références",
@@ -830,7 +830,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 58,
    "nom": "Scan-dia",
    "lien": "https://tools.dia.tv/scan/index.html",
    "categorie": "3D & outils numériques",
@@ -843,7 +843,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 59,
    "nom": "T Magazine",
    "lien": "https://t-magazine.com/",
    "categorie": "Culture & références",
@@ -858,7 +858,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 60,
    "nom": "032c",
    "lien": "https://www.032c.com/",
    "categorie": "Culture & références",
@@ -873,7 +873,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 61,
    "nom": "Resource Boy",
    "lien": "https://resourceboy.com/",
    "categorie": "Assets & banques libres",
@@ -887,7 +887,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 62,
    "nom": "Notefolio",
    "lien": "https://notefolio.net/",
    "categorie": "Web design & portfolio",
@@ -901,7 +901,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 63,
    "nom": "Sublime",
    "lien": "https://sublime.app/",
    "categorie": "Inspiration & veille",
@@ -915,7 +915,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 64,
    "nom": "Setmargins",
    "lien": "https://www.setmargins.press/",
    "categorie": "Culture & références",
@@ -929,7 +929,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 65,
    "nom": "Sternberg Press",
    "lien": "https://www.sternberg-press.com/",
    "categorie": "Culture & références",
@@ -944,7 +944,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 66,
    "nom": "Socratica",
    "lien": "https://socratica.info/",
    "categorie": "Culture & références",
@@ -957,7 +957,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 67,
    "nom": "Atlas Obscura",
    "lien": "https://www.atlasobscura.com/",
    "categorie": "Culture & références",
@@ -971,7 +971,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 68,
    "nom": "Public.work (by Cosmos)",
    "lien": "https://www.cosmos.so/public-work",
    "categorie": "Inspiration & veille",
@@ -986,7 +986,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 69,
    "nom": "Radio Garden",
    "lien": "https://radio.garden/",
    "categorie": "Culture & références",
@@ -1001,7 +1001,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 70,
    "nom": "Project Gutenberg",
    "lien": "https://www.gutenberg.org/",
    "categorie": "Assets & banques libres",
@@ -1015,7 +1015,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 71,
    "nom": "Footer Design",
    "lien": "https://www.footer.design/",
    "categorie": "Web design & portfolio",
@@ -1029,7 +1029,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 72,
    "nom": "Labbet",
    "lien": "",
    "categorie": "Inspiration & veille",
@@ -1042,7 +1042,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 73,
    "nom": "Branding Style Guides",
    "lien": "https://brandingstyleguides.com/",
    "categorie": "Identité de marque & packaging",
@@ -1057,7 +1057,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 74,
    "nom": "Creatoom",
    "lien": "https://creatoom.com/",
    "categorie": "Assets & banques libres",
@@ -1071,7 +1071,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 75,
    "nom": "Unblast",
    "lien": "https://unblast.com/",
    "categorie": "Assets & banques libres",
@@ -1086,7 +1086,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 76,
    "nom": "Cargo",
    "lien": "https://cargo.site/",
    "categorie": "Web design & portfolio",
@@ -1100,7 +1100,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 77,
    "nom": "Humaaans",
    "lien": "https://www.humaaans.com/",
    "categorie": "Assets & banques libres",
@@ -1115,7 +1115,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 78,
    "nom": "Letterform Archive",
    "lien": "https://letterformarchive.org/",
    "categorie": "Typographie",
@@ -1130,7 +1130,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 79,
    "nom": "Bodies in Motion",
    "lien": "https://bodiesinmotion.photo/",
    "categorie": "Illustration & dessin",
@@ -1145,7 +1145,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 80,
    "nom": "Reference Angle",
    "lien": "https://referenceangle.com/",
    "categorie": "Illustration & dessin",
@@ -1159,7 +1159,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 81,
    "nom": "Film Grab",
    "lien": "https://film-grab.com/",
    "categorie": "Culture & références",
@@ -1174,7 +1174,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 82,
    "nom": "Practice Drawing This",
    "lien": "https://practicedrawingthis.com/",
    "categorie": "Illustration & dessin",
@@ -1187,7 +1187,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 83,
    "nom": "Sketchfab",
    "lien": "https://sketchfab.com/",
    "categorie": "3D & outils numériques",
@@ -1201,7 +1201,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 84,
    "nom": "Cobalt",
    "lien": "https://cobalt.tools/",
    "categorie": "3D & outils numériques",
@@ -1215,7 +1215,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 85,
    "nom": "Tv.garden",
    "lien": "https://famelack.com/",
    "categorie": "Culture & références",
@@ -1229,7 +1229,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 86,
    "nom": "Radiooooo",
    "lien": "https://app.radiooooo.com/",
    "categorie": "Culture & références",
@@ -1243,7 +1243,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 87,
    "nom": "Mysketchbooth",
    "lien": "https://mysketchbooth.com/",
    "categorie": "3D & outils numériques",
@@ -1257,7 +1257,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 88,
    "nom": "wPlace",
    "lien": "https://wplace.live/",
    "categorie": "Culture & références",
@@ -1272,7 +1272,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 89,
    "nom": "First in Architecture",
    "lien": "https://www.firstinarchitecture.co.uk/",
    "categorie": "Inspiration & veille",
@@ -1286,7 +1286,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 90,
    "nom": "Pimp My Drawing",
    "lien": "https://pimpmydrawing.com/",
    "categorie": "Illustration & dessin",
@@ -1300,7 +1300,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 91,
    "nom": "Trendlist",
    "lien": "https://trendlist.org/",
    "categorie": "Inspiration & veille",
@@ -1315,7 +1315,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 92,
    "nom": "Obys Library",
    "lien": "https://library.obys.agency/",
    "categorie": "Web design & portfolio",
@@ -1330,7 +1330,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 93,
    "nom": "Pointillizer",
    "lien": "https://pointillizer.org/",
    "categorie": "3D & outils numériques",
@@ -1344,7 +1344,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 94,
    "nom": "Mixamo",
    "lien": "https://www.mixamo.com/",
    "categorie": "3D & outils numériques",
@@ -1359,7 +1359,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 95,
    "nom": "Character Design References",
    "lien": "https://characterdesignreferences.com/",
    "categorie": "Illustration & dessin",
@@ -1374,7 +1374,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 96,
    "nom": "Just Sketch Me",
    "lien": "https://justsketch.me/",
    "categorie": "Illustration & dessin",
@@ -1388,7 +1388,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 97,
    "nom": "Same Energy",
    "lien": "https://same.energy/",
    "categorie": "Inspiration & veille",
@@ -1403,7 +1403,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 98,
    "nom": "Pacdora",
    "lien": "https://www.pacdora.com/fr",
    "categorie": "Mockups & présentation",
@@ -1418,7 +1418,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 99,
    "nom": "Hikaku Sitatter",
    "lien": "https://hikaku-sitatter.com/en/",
    "categorie": "Illustration & dessin",
@@ -1433,7 +1433,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 100,
    "nom": "Cinema Palette",
    "lien": "https://cinema-palette.web.app/",
    "categorie": "Couleur",
@@ -1448,7 +1448,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 101,
    "nom": "Risotto Prints",
    "lien": "https://risottostudio.com/",
    "categorie": "Assets & banques libres",
@@ -1462,7 +1462,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 102,
    "nom": "Wada Sanzo Colors",
    "lien": "https://www.wada-sanzo-colors.com/combinations/classic/all",
    "categorie": "Couleur",
@@ -1476,7 +1476,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 103,
    "nom": "Zeel Project",
    "lien": "https://zeelproject.com/fr/",
    "categorie": "Inspiration & veille",
@@ -1489,7 +1489,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 104,
    "nom": "3D Brute",
    "lien": "https://3dbrute.com/",
    "categorie": "3D & outils numériques",
@@ -1503,7 +1503,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 105,
    "nom": "International Library of Fashion Research",
    "lien": "https://fashionresearchlibrary.com/",
    "categorie": "Culture & références",
@@ -1518,7 +1518,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 106,
    "nom": "The Dieline",
    "lien": "https://thedieline.com/",
    "categorie": "Identité de marque & packaging",
@@ -1533,7 +1533,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 107,
    "nom": "Death to Stock",
    "lien": "https://www.deathtothestockphoto.com/",
    "categorie": "Assets & banques libres",
@@ -1547,7 +1547,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 108,
    "nom": "Are.na",
    "lien": "https://www.are.na/",
    "categorie": "Inspiration & veille",
@@ -1562,7 +1562,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 109,
    "nom": "The Design Observer",
    "lien": "https://designobserver.com/",
    "categorie": "Culture & références",
@@ -1576,7 +1576,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 110,
    "nom": "SVG Backgrounds",
    "lien": "https://www.svgbackgrounds.com/category/gradient/",
    "categorie": "Assets & banques libres",
@@ -1591,7 +1591,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 111,
    "nom": "Coolors",
    "lien": "https://coolors.co/",
    "categorie": "Couleur",
@@ -1606,7 +1606,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 112,
    "nom": "Shader Gradient",
    "lien": "https://shadergradient.co/",
    "categorie": "3D & outils numériques",
@@ -1621,7 +1621,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 113,
    "nom": "Foleo Designs",
    "lien": "https://www.foleo.design/",
    "categorie": "Web design & portfolio",
@@ -1634,7 +1634,7 @@
    "verif": true
   },
   {
-   "n": null,
+   "n": 114,
    "nom": "Readymag",
    "lien": "https://readymag.com/",
    "categorie": "Web design & portfolio",
@@ -1650,7 +1650,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 115,
    "nom": "Httpster",
    "lien": "https://httpster.net/",
    "categorie": "Web design & portfolio",
@@ -1664,7 +1664,7 @@
    "verif": false
   },
   {
-   "n": null,
+   "n": 116,
    "nom": "Milkshake",
    "lien": "https://milkshake.app/",
    "categorie": "Web design & portfolio",
