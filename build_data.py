@@ -4,13 +4,19 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 raw = urllib.request.urlopen(os.environ["SHEET_CSV_URL"], timeout=60).read().decode("utf-8")
+def num(v):
+    try:
+        return int(float(v))
+    except ValueError:
+        return None
+
 items = []
 for r in csv.DictReader(io.StringIO(raw)):
     g = lambda k: (r.get(k) or "").strip()
     if not g("Nom"):
         continue
     items.append({
-        "nom": g("Nom"), "lien": g("Lien"), "categorie": g("Catégorie"), "format": g("Format"),
+        "n": num(g("N°")), "nom": g("Nom"), "lien": g("Lien"), "categorie": g("Catégorie"), "format": g("Format"),
         "tags": [t.strip() for t in g("Tags").split(",") if t.strip()],
         "description": g("Description"), "cout": g("Coût"), "verif": g("À vérifier").lower() == "oui",
     })
