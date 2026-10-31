@@ -35,7 +35,8 @@ summary{font:500 12px var(--mono);letter-spacing:.1em;text-transform:uppercase;c
 .reset{background:none;border:0;border-bottom:1px solid var(--ink);font:12px var(--mono);color:var(--ink);cursor:pointer;padding:0 0 2px}
 .count{font-size:12px;color:var(--soft);margin:28px 0 0}
 ol{list-style:none;margin:8px 0 0;padding:0}
-li{border-top:1px solid var(--rule);padding:18px 0}
+li{border-top:1px solid var(--rule);padding:18px 0;display:grid;grid-template-columns:44px 1fr;gap:0 8px}
+.num{font:12px var(--mono);color:var(--soft);padding-top:9px}
 .name{font-weight:600;font-size:22px;line-height:1.2;color:var(--ink);text-decoration-thickness:1px;text-underline-offset:4px}
 a.name:hover{text-decoration-thickness:2px}
 .desc{margin:6px 0 8px;max-width:660px}
@@ -126,20 +127,22 @@ function render() {
   const list = $("list"); list.innerHTML = "";
   const res = items.filter(matches);
   $("count").textContent = res.length + (res.length > 1 ? " ressources" : " ressource") + " sur " + items.length;
-  if (!res.length) { const li = el("li", "", "Rien ne correspond. Essaie un autre mot ou réinitialise les filtres."); list.appendChild(li); return; }
-  res.forEach(i => {
-    const li = el("li"); const url = safeUrl(i.lien);
+  if (!res.length) { const li = el("li", "", "Rien ne correspond. Essaie un autre mot ou réinitialise les filtres."); li.style.display = "block"; list.appendChild(li); return; }
+  const w = Math.max(2, String(res.length).length);
+  res.forEach((i, n) => {
+    const li = el("li"), body = el("div"); const url = safeUrl(i.lien);
+    li.appendChild(el("span", "num", String(n + 1).padStart(w, "0")));
     const name = url ? el("a", "name", i.nom) : el("span", "name", i.nom);
     if (url) { name.href = url; name.target = "_blank"; name.rel = "noopener noreferrer"; }
-    li.appendChild(name);
-    li.appendChild(el("p", "desc", i.description));
-    li.appendChild(el("p", "meta", [i.categorie, i.format, i.cout].filter(Boolean).join("  ·  ") + (i.verif ? "  ·  à confirmer" : "")));
+    body.appendChild(name);
+    body.appendChild(el("p", "desc", i.description));
+    body.appendChild(el("p", "meta", [i.categorie, i.format, i.cout].filter(Boolean).join("  ·  ") + (i.verif ? "  ·  à confirmer" : "")));
     const tg = el("div", "tags");
     i.tags.filter(t => t !== "à-classer").forEach(t => {
       const b = el("button", "tag" + (state.tags.has(t) ? " on" : ""), "#" + t); b.type = "button";
       b.addEventListener("click", () => toggleTag(t)); tg.appendChild(b);
     });
-    li.appendChild(tg); list.appendChild(li);
+    body.appendChild(tg); li.appendChild(body); list.appendChild(li);
   });
 }
 
