@@ -44,6 +44,8 @@ a.name:hover{text-decoration-thickness:2px}
 .tags{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:8px}
 .tag{background:none;border:0;padding:0;font:12px var(--mono);color:var(--soft);cursor:pointer}
 .tag:hover,.tag.on{color:var(--ink);text-decoration:underline}
+.report{margin-left:auto;font:11px var(--mono);color:var(--soft);text-decoration:underline;text-underline-offset:3px}
+.report:hover{color:var(--ink)}
 footer{border-top:2px solid var(--ink);margin-top:32px;padding-top:12px;font-size:11px;letter-spacing:.06em;color:var(--soft);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 @media(max-width:560px){main{padding-top:32px}select{min-width:0;width:100%}.row>label{flex:1 1 100%}}
 </style>
@@ -84,6 +86,8 @@ const norm = s => String(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toL
 const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x != null) e.textContent = x; return e; };
 const state = { q: "", cat: "", fmt: "", cout: "", tags: new Set() };
 let items = [];
+const REPORT_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeHnsm-PTDu3ZVV3M7-h0wVdeJ0JIvw7bCDYI-2CxVcrcyxaA/viewform?usp=pp_url&entry.1440215143=MODELE
+";
 
 $("add").href = FORM_URL;
 
@@ -141,8 +145,13 @@ function render() {
       const b = el("button", "tag" + (state.tags.has(t) ? " on" : ""), "#" + t); b.type = "button";
       b.addEventListener("click", () => toggleTag(t)); tg.appendChild(b);
     });
-    body.appendChild(tg); li.appendChild(body); list.appendChild(li);
-  });
+    if (REPORT_URL.includes("/viewform")) {
+      const label = (i.n ? "n° " + String(i.n).padStart(3, "0") + " – " : "") + i.nom;
+      const rp = el("a", "report", "Signaler un problème");
+      rp.href = REPORT_URL.replace("MODELE", encodeURIComponent(label));
+      rp.target = "_blank"; rp.rel = "noopener"; rp.title = "Signaler un problème sur cette fiche"; tg.appendChild(rp);
+    }
+    body.appendChild(tg); li.appendChild(body); list.appendChild(li);  });
 }
 
 $("q").addEventListener("input", e => { state.q = e.target.value; render(); });
