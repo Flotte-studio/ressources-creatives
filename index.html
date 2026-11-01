@@ -86,8 +86,7 @@ const norm = s => String(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toL
 const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x != null) e.textContent = x; return e; };
 const state = { q: "", cat: "", fmt: "", cout: "", tags: new Set() };
 let items = [];
-const REPORT_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeHnsm-PTDu3ZVV3M7-h0wVdeJ0JIvw7bCDYI-2CxVcrcyxaA/viewform?usp=pp_url&entry.1440215143=MODELE
-";
+const REPORT_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeHnsm-PTDu3ZVV3M7-h0wVdeJ0JIvw7bCDYI-2CxVcrcyxaA/viewform?usp=pp_url&entry.1440215143=MODELE";
 
 $("add").href = FORM_URL;
 
