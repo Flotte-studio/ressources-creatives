@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "items": [
   {
    "n": 1,
    "nom": "A Dictionary of Color Combinations Vol. 1",
-   "lien": "https://www.librairievolume.com/product/a-dictionary-of-color-combinations-vol-1",
+   "lien": "https://www.yvon-lambert.com/products/a-dictionary-of-color-combinations?srsltid=AYCX9vI1vh_cRWSXbLLYXP41wJIgoIPUPrIUdCyYqSXnr5oPdOH4kUBB",
    "categorie": "Couleur",
    "format": "Livre",
    "tags": [
@@ -260,9 +260,9 @@
     "moodboard",
     "inspiration"
    ],
-   "description": "Bibliothèque d'inspiration visuelle à enregistrer en collections.",
-   "cout": "À vérifier",
-   "verif": true
+   "description": "Bibliothèque d'inspiration visuelle à enregistrer en collections. A noter, il faut créer un compte",
+   "cout": "Freemium",
+   "verif": false
   },
   {
    "n": 19,
@@ -333,9 +333,9 @@
    "tags": [
     "outil"
    ],
-   "description": "Outil en ligne (à décrire après test).",
-   "cout": "À vérifier",
-   "verif": true
+   "description": "Online tool - turn photos into architectural drawings\nfacadetool reads a photograph and draws it again in clean vector lines. Download the .dxf and open it in any CAD program.",
+   "cout": "Payant",
+   "verif": false
   },
   {
    "n": 24,
@@ -369,18 +369,16 @@
   },
   {
    "n": 26,
-   "nom": "Moshpro",
-   "lien": "https://moshpro.app/",
-   "categorie": "3D & outils numériques",
-   "format": "Outil en ligne",
+   "nom": "Foleo Designs",
+   "lien": "https://www.foleo.design/",
+   "categorie": "Web design & portfolio",
+   "format": "Site / galerie",
    "tags": [
-    "motion",
-    "vidéo",
-    "outil"
+    "inspiration"
    ],
-   "description": "Outil d'effets glitch / datamosh sur vidéo (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
+   "description": "Foleo is a collection of the best design portfolios on the internet, curated by Samuel Fabayo.",
+   "cout": "Gratuit",
+   "verif": false
   },
   {
    "n": 27,
@@ -394,8 +392,8 @@
     "générateur"
    ],
    "description": "Outil de palettes de couleurs (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
+   "cout": "Gratuit",
+   "verif": false
   },
   {
    "n": 28,
@@ -408,55 +406,25 @@
     "photo"
    ],
    "description": "Publication de culture visuelle (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
+   "cout": "Gratuit",
+   "verif": false
   },
   {
    "n": 29,
-   "nom": "Nowness",
-   "lien": "https://www.nowness.com/",
-   "categorie": "Culture & références",
-   "format": "Magazine / média",
+   "nom": "Maneken",
+   "lien": "https://editor.maneken.app/",
+   "categorie": "Mockups & présentation",
+   "format": "Outil en ligne",
    "tags": [
-    "vidéo",
-    "art-contemporain",
-    "mode"
+    "mockup",
+    "présentation"
    ],
-   "description": "Média de contenus vidéo : culture, art, mode, design (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
+   "description": "Bibliothèque de mockups. \nLes mockups sont directement éditables en ligne",
+   "cout": "Freemium",
+   "verif": false
   },
   {
    "n": 30,
-   "nom": "Maneken",
-   "lien": "https://maneken.app/",
-   "categorie": "Illustration & dessin",
-   "format": "Outil en ligne",
-   "tags": [
-    "référence-pose",
-    "dessin",
-    "3d"
-   ],
-   "description": "Mannequin 3D à poser pour dessiner d'après modèle (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 31,
-   "nom": "LS Graphics",
-   "lien": "https://www.ls.graphics/",
-   "categorie": "Assets & banques libres",
-   "format": "Site / galerie",
-   "tags": [
-    "assets",
-    "textures"
-   ],
-   "description": "Ressources graphiques (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 32,
    "nom": "Minimal Mockups",
    "lien": "https://www.minimalmockups.com/",
    "categorie": "Mockups & présentation",
@@ -470,7 +438,7 @@
    "verif": false
   },
   {
-   "n": 33,
+   "n": 31,
    "nom": "Mockuuups Studio",
    "lien": "https://mockuuups.studio/",
    "categorie": "Mockups & présentation",
@@ -485,7 +453,7 @@
    "verif": false
   },
   {
-   "n": 34,
+   "n": 32,
    "nom": "Awwwards",
    "lien": "https://www.awwwards.com/",
    "categorie": "Web design & portfolio",
@@ -500,7 +468,7 @@
    "verif": false
   },
   {
-   "n": 35,
+   "n": 33,
    "nom": "Fonts In Use",
    "lien": "https://fontsinuse.com/",
    "categorie": "Typographie",
@@ -515,7 +483,7 @@
    "verif": false
   },
   {
-   "n": 36,
+   "n": 34,
    "nom": "Fontbrief",
    "lien": "https://www.fontbrief.com/fontbrief",
    "categorie": "Typographie",
@@ -524,11 +492,11 @@
     "typo"
    ],
    "description": "Ressource typographique (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
+   "cout": "Gratuit",
+   "verif": false
   },
   {
-   "n": 37,
+   "n": 35,
    "nom": "Interactive typography cheatsheet",
    "lien": "https://www.are.na/block/24159684",
    "categorie": "Typographie",
@@ -543,21 +511,7 @@
    "verif": false
   },
   {
-   "n": 38,
-   "nom": "The Art Scavenger",
-   "lien": "https://www.theartscavenger.com/",
-   "categorie": "Inspiration & veille",
-   "format": "Site / galerie",
-   "tags": [
-    "art-contemporain",
-    "curation"
-   ],
-   "description": "Curation d'art et de design (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 39,
+   "n": 36,
    "nom": "Mr Mockup",
    "lien": "https://mrmockup.com/",
    "categorie": "Mockups & présentation",
@@ -571,7 +525,7 @@
    "verif": false
   },
   {
-   "n": 40,
+   "n": 37,
    "nom": "Dezeen",
    "lien": "https://www.dezeen.com/",
    "categorie": "Inspiration & veille",
@@ -586,7 +540,7 @@
    "verif": false
   },
   {
-   "n": 41,
+   "n": 38,
    "nom": "Siteinspire",
    "lien": "https://www.siteinspire.com/",
    "categorie": "Web design & portfolio",
@@ -600,21 +554,21 @@
    "verif": false
   },
   {
-   "n": 42,
+   "n": 39,
    "nom": "Curation of Curations",
    "lien": "https://www.curationofcurations.com/",
    "categorie": "Inspiration & veille",
-   "format": "Site / galerie",
+   "format": "Vidéo / reportage",
    "tags": [
     "curation",
     "inspiration"
    ],
-   "description": "Annuaire de sources d'inspiration (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
+   "description": "Annuaire de ressources vidéos autour du design produit, de la typographie, et de sujets variés autour de la créativité",
+   "cout": "Gratuit",
+   "verif": false
   },
   {
-   "n": 43,
+   "n": 40,
    "nom": "Antlii",
    "lien": "https://antlii.work/Index",
    "categorie": "Web design & portfolio",
@@ -623,25 +577,12 @@
     "portfolio",
     "web-design"
    ],
-   "description": "Portfolio de travaux (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
+   "description": "Portfolio de travaux : multidisciplinary digital artist and creative coder from Kyiv, Ukraine.\nSpecialized in vector and raster graphics, with a focus on human connection with future technologies, expressing ideas through abstract geometric shapes and rich textured surfaces.",
+   "cout": "Gratuit",
+   "verif": false
   },
   {
-   "n": 44,
-   "nom": "Blkmarket",
-   "lien": "https://blkmarket.com/",
-   "categorie": "Inspiration & veille",
-   "format": "Site / galerie",
-   "tags": [
-    "curation"
-   ],
-   "description": "À décrire après test. Version beta : https://beta.blkmarket.com/",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 45,
+   "n": 41,
    "nom": "Designspiration",
    "lien": "https://www.designspiration.com/",
    "categorie": "Inspiration & veille",
@@ -656,7 +597,7 @@
    "verif": false
   },
   {
-   "n": 46,
+   "n": 42,
    "nom": "Land-book",
    "lien": "https://land-book.com/",
    "categorie": "Web design & portfolio",
@@ -671,7 +612,7 @@
    "verif": false
   },
   {
-   "n": 47,
+   "n": 43,
    "nom": "Velvetyne",
    "lien": "https://velvetyne.fr/",
    "categorie": "Typographie",
@@ -686,7 +627,7 @@
    "verif": false
   },
   {
-   "n": 48,
+   "n": 44,
    "nom": "&Walsh",
    "lien": "https://andwalsh.com/work/",
    "categorie": "Identité de marque & packaging",
@@ -701,7 +642,7 @@
    "verif": false
   },
   {
-   "n": 49,
+   "n": 45,
    "nom": "Divisare",
    "lien": "https://divisare.com/",
    "categorie": "Inspiration & veille",
@@ -715,7 +656,7 @@
    "verif": false
   },
   {
-   "n": 50,
+   "n": 46,
    "nom": "Dribbble",
    "lien": "https://dribbble.com/",
    "categorie": "Web design & portfolio",
@@ -731,7 +672,7 @@
    "verif": false
   },
   {
-   "n": 51,
+   "n": 47,
    "nom": "Brand Site Design",
    "lien": "https://www.brandsite.design/",
    "categorie": "Identité de marque & packaging",
@@ -740,12 +681,12 @@
     "branding",
     "web-design"
    ],
-   "description": "Galerie de sites de marque (à confirmer).",
+   "description": "A collection of purpose-built, digital, accessible guidelines from global brands.",
    "cout": "À vérifier",
-   "verif": true
+   "verif": false
   },
   {
-   "n": 52,
+   "n": 48,
    "nom": "Spline",
    "lien": "https://spline.design/",
    "categorie": "3D & outils numériques",
@@ -760,35 +701,7 @@
    "verif": false
   },
   {
-   "n": 53,
-   "nom": "Soot Spiral",
-   "lien": "https://spiral.soot.com/spiral",
-   "categorie": "3D & outils numériques",
-   "format": "Outil en ligne",
-   "tags": [
-    "expérimental"
-   ],
-   "description": "Expérimentation en ligne (à décrire après test).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 54,
-   "nom": "Directors Library",
-   "lien": "https://directorslibrary.com/",
-   "categorie": "Culture & références",
-   "format": "Site / galerie",
-   "tags": [
-    "cinéma",
-    "vidéo",
-    "références"
-   ],
-   "description": "Bibliothèque de films et vidéos de réalisateurs (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 55,
+   "n": 49,
    "nom": "The Brand Identity",
    "lien": "https://the-brandidentity.com/",
    "categorie": "Identité de marque & packaging",
@@ -803,7 +716,7 @@
    "verif": false
   },
   {
-   "n": 56,
+   "n": 50,
    "nom": "The Creative Independent",
    "lien": "https://thecreativeindependent.com/",
    "categorie": "Culture & références",
@@ -817,63 +730,7 @@
    "verif": false
   },
   {
-   "n": 57,
-   "nom": "The Criterion Collection",
-   "lien": "https://www.criterion.com/",
-   "categorie": "Culture & références",
-   "format": "Site / galerie",
-   "tags": [
-    "cinéma"
-   ],
-   "description": "Catalogue de films classiques et d'auteur.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 58,
-   "nom": "Scan-dia",
-   "lien": "https://tools.dia.tv/scan/index.html",
-   "categorie": "3D & outils numériques",
-   "format": "Outil en ligne",
-   "tags": [
-    "outil"
-   ],
-   "description": "Outil en ligne (à décrire après test).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 59,
-   "nom": "T Magazine",
-   "lien": "https://t-magazine.com/",
-   "categorie": "Culture & références",
-   "format": "Magazine / média",
-   "tags": [
-    "mode",
-    "art-contemporain",
-    "magazine"
-   ],
-   "description": "Magazine culturel : mode, art, design.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 60,
-   "nom": "032c",
-   "lien": "https://www.032c.com/",
-   "categorie": "Culture & références",
-   "format": "Magazine / média",
-   "tags": [
-    "mode",
-    "art-contemporain",
-    "magazine"
-   ],
-   "description": "Magazine de culture contemporaine (art, mode, design).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 61,
+   "n": 51,
    "nom": "Resource Boy",
    "lien": "https://resourceboy.com/",
    "categorie": "Assets & banques libres",
@@ -887,21 +744,7 @@
    "verif": false
   },
   {
-   "n": 62,
-   "nom": "Notefolio",
-   "lien": "https://notefolio.net/",
-   "categorie": "Web design & portfolio",
-   "format": "Site / galerie",
-   "tags": [
-    "portfolio",
-    "communauté"
-   ],
-   "description": "Plateforme de portfolios créatifs.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 63,
+   "n": 52,
    "nom": "Sublime",
    "lien": "https://sublime.app/",
    "categorie": "Inspiration & veille",
@@ -915,21 +758,7 @@
    "verif": false
   },
   {
-   "n": 64,
-   "nom": "Setmargins",
-   "lien": "https://www.setmargins.press/",
-   "categorie": "Culture & références",
-   "format": "Site / galerie",
-   "tags": [
-    "édition",
-    "livres"
-   ],
-   "description": "Presse indépendante autour de l'édition (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 65,
+   "n": 53,
    "nom": "Sternberg Press",
    "lien": "https://www.sternberg-press.com/",
    "categorie": "Culture & références",
@@ -944,20 +773,7 @@
    "verif": false
   },
   {
-   "n": 66,
-   "nom": "Socratica",
-   "lien": "https://socratica.info/",
-   "categorie": "Culture & références",
-   "format": "Site / galerie",
-   "tags": [
-    "à-classer"
-   ],
-   "description": "À décrire après test.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 67,
+   "n": 54,
    "nom": "Atlas Obscura",
    "lien": "https://www.atlasobscura.com/",
    "categorie": "Culture & références",
@@ -971,22 +787,7 @@
    "verif": false
   },
   {
-   "n": 68,
-   "nom": "Public.work (by Cosmos)",
-   "lien": "https://www.cosmos.so/public-work",
-   "categorie": "Inspiration & veille",
-   "format": "Site / galerie",
-   "tags": [
-    "curation",
-    "portfolio",
-    "inspiration"
-   ],
-   "description": "Section de Cosmos consacrée au travail de créatifs (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 69,
+   "n": 55,
    "nom": "Radio Garden",
    "lien": "https://radio.garden/",
    "categorie": "Culture & références",
@@ -1001,7 +802,7 @@
    "verif": false
   },
   {
-   "n": 70,
+   "n": 56,
    "nom": "Project Gutenberg",
    "lien": "https://www.gutenberg.org/",
    "categorie": "Assets & banques libres",
@@ -1015,7 +816,7 @@
    "verif": false
   },
   {
-   "n": 71,
+   "n": 57,
    "nom": "Footer Design",
    "lien": "https://www.footer.design/",
    "categorie": "Web design & portfolio",
@@ -1029,20 +830,7 @@
    "verif": false
   },
   {
-   "n": 72,
-   "nom": "Labbet",
-   "lien": "",
-   "categorie": "Inspiration & veille",
-   "format": "App",
-   "tags": [
-    "à-classer"
-   ],
-   "description": "App iPhone, lien non fourni dans la liste d'origine.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 73,
+   "n": 58,
    "nom": "Branding Style Guides",
    "lien": "https://brandingstyleguides.com/",
    "categorie": "Identité de marque & packaging",
@@ -1057,21 +845,7 @@
    "verif": false
   },
   {
-   "n": 74,
-   "nom": "Creatoom",
-   "lien": "https://creatoom.com/",
-   "categorie": "Assets & banques libres",
-   "format": "Site / galerie",
-   "tags": [
-    "assets",
-    "mockup"
-   ],
-   "description": "Ressources de design (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 75,
+   "n": 59,
    "nom": "Unblast",
    "lien": "https://unblast.com/",
    "categorie": "Assets & banques libres",
@@ -1086,7 +860,7 @@
    "verif": false
   },
   {
-   "n": 76,
+   "n": 60,
    "nom": "Cargo",
    "lien": "https://cargo.site/",
    "categorie": "Web design & portfolio",
@@ -1100,7 +874,7 @@
    "verif": false
   },
   {
-   "n": 77,
+   "n": 61,
    "nom": "Humaaans",
    "lien": "https://www.humaaans.com/",
    "categorie": "Assets & banques libres",
@@ -1115,7 +889,7 @@
    "verif": false
   },
   {
-   "n": 78,
+   "n": 62,
    "nom": "Letterform Archive",
    "lien": "https://letterformarchive.org/",
    "categorie": "Typographie",
@@ -1130,64 +904,7 @@
    "verif": false
   },
   {
-   "n": 79,
-   "nom": "Bodies in Motion",
-   "lien": "https://bodiesinmotion.photo/",
-   "categorie": "Illustration & dessin",
-   "format": "Site / galerie",
-   "tags": [
-    "référence-pose",
-    "dessin",
-    "photo"
-   ],
-   "description": "Photos de corps en mouvement comme référence de pose (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 80,
-   "nom": "Reference Angle",
-   "lien": "https://referenceangle.com/",
-   "categorie": "Illustration & dessin",
-   "format": "Site / galerie",
-   "tags": [
-    "référence-pose",
-    "dessin"
-   ],
-   "description": "Références de poses et d'angles pour le dessin (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 81,
-   "nom": "Film Grab",
-   "lien": "https://film-grab.com/",
-   "categorie": "Culture & références",
-   "format": "Site / galerie",
-   "tags": [
-    "cinéma",
-    "références",
-    "photo"
-   ],
-   "description": "Captures d'images de films (cadrage, lumière, palettes). Lien corrigé depuis « Filmgrab.com ».",
-   "cout": "Gratuit",
-   "verif": true
-  },
-  {
-   "n": 82,
-   "nom": "Practice Drawing This",
-   "lien": "https://practicedrawingthis.com/",
-   "categorie": "Illustration & dessin",
-   "format": "Site / galerie",
-   "tags": [
-    "dessin"
-   ],
-   "description": "Ressource d'entraînement au dessin (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 83,
+   "n": 63,
    "nom": "Sketchfab",
    "lien": "https://sketchfab.com/",
    "categorie": "3D & outils numériques",
@@ -1201,7 +918,7 @@
    "verif": false
   },
   {
-   "n": 84,
+   "n": 64,
    "nom": "Cobalt",
    "lien": "https://cobalt.tools/",
    "categorie": "3D & outils numériques",
@@ -1215,21 +932,7 @@
    "verif": false
   },
   {
-   "n": 85,
-   "nom": "Tv.garden",
-   "lien": "https://famelack.com/",
-   "categorie": "Culture & références",
-   "format": "Outil en ligne",
-   "tags": [
-    "vidéo",
-    "inspiration"
-   ],
-   "description": "Chaînes de télévision du monde entier (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 86,
+   "n": 65,
    "nom": "Radiooooo",
    "lien": "https://app.radiooooo.com/",
    "categorie": "Culture & références",
@@ -1243,21 +946,7 @@
    "verif": false
   },
   {
-   "n": 87,
-   "nom": "Mysketchbooth",
-   "lien": "https://mysketchbooth.com/",
-   "categorie": "3D & outils numériques",
-   "format": "Outil en ligne",
-   "tags": [
-    "photo",
-    "outil"
-   ],
-   "description": "Photomaton vintage en ligne.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 88,
+   "n": 66,
    "nom": "wPlace",
    "lien": "https://wplace.live/",
    "categorie": "Culture & références",
@@ -1272,35 +961,7 @@
    "verif": false
   },
   {
-   "n": 89,
-   "nom": "First in Architecture",
-   "lien": "https://www.firstinarchitecture.co.uk/",
-   "categorie": "Inspiration & veille",
-   "format": "Site / galerie",
-   "tags": [
-    "architecture",
-    "références"
-   ],
-   "description": "Ressource d'architecture (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 90,
-   "nom": "Pimp My Drawing",
-   "lien": "https://pimpmydrawing.com/",
-   "categorie": "Illustration & dessin",
-   "format": "Outil en ligne",
-   "tags": [
-    "dessin",
-    "outil"
-   ],
-   "description": "Outil pour retravailler ses dessins (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 91,
+   "n": 67,
    "nom": "Trendlist",
    "lien": "https://trendlist.org/",
    "categorie": "Inspiration & veille",
@@ -1315,36 +976,7 @@
    "verif": false
   },
   {
-   "n": 92,
-   "nom": "Obys Library",
-   "lien": "https://library.obys.agency/",
-   "categorie": "Web design & portfolio",
-   "format": "Site / galerie",
-   "tags": [
-    "web-design",
-    "motion",
-    "références"
-   ],
-   "description": "Bibliothèque de ressources web et d'animation de l'agence Obys.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 93,
-   "nom": "Pointillizer",
-   "lien": "https://pointillizer.org/",
-   "categorie": "3D & outils numériques",
-   "format": "Outil en ligne",
-   "tags": [
-    "générateur",
-    "illustration"
-   ],
-   "description": "Transforme une image en composition de points (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 94,
+   "n": 68,
    "nom": "Mixamo",
    "lien": "https://www.mixamo.com/",
    "categorie": "3D & outils numériques",
@@ -1359,36 +991,7 @@
    "verif": false
   },
   {
-   "n": 95,
-   "nom": "Character Design References",
-   "lien": "https://characterdesignreferences.com/",
-   "categorie": "Illustration & dessin",
-   "format": "Site / galerie",
-   "tags": [
-    "personnage",
-    "références",
-    "dessin"
-   ],
-   "description": "Références de character design.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 96,
-   "nom": "Just Sketch Me",
-   "lien": "https://justsketch.me/",
-   "categorie": "Illustration & dessin",
-   "format": "Outil en ligne",
-   "tags": [
-    "dessin",
-    "outil"
-   ],
-   "description": "À décrire après test.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 97,
+   "n": 69,
    "nom": "Same Energy",
    "lien": "https://same.energy/",
    "categorie": "Inspiration & veille",
@@ -1403,7 +1006,7 @@
    "verif": false
   },
   {
-   "n": 98,
+   "n": 70,
    "nom": "Pacdora",
    "lien": "https://www.pacdora.com/fr",
    "categorie": "Mockups & présentation",
@@ -1414,26 +1017,11 @@
     "3d"
    ],
    "description": "Mockups et gabarits de packaging en 3D.",
-   "cout": "Freemium",
+   "cout": "Payant",
    "verif": false
   },
   {
-   "n": 99,
-   "nom": "Hikaku Sitatter",
-   "lien": "https://hikaku-sitatter.com/en/",
-   "categorie": "Illustration & dessin",
-   "format": "Outil en ligne",
-   "tags": [
-    "dessin",
-    "références",
-    "outil"
-   ],
-   "description": "Compare les tailles de personnes et d'objets : utile pour tenir les proportions entre personnages.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 100,
+   "n": 71,
    "nom": "Cinema Palette",
    "lien": "https://cinema-palette.web.app/",
    "categorie": "Couleur",
@@ -1448,21 +1036,7 @@
    "verif": false
   },
   {
-   "n": 101,
-   "nom": "Risotto Prints",
-   "lien": "https://risottostudio.com/",
-   "categorie": "Assets & banques libres",
-   "format": "Site / galerie",
-   "tags": [
-    "patterns",
-    "impression"
-   ],
-   "description": "Motifs et prints du studio Risotto (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 102,
+   "n": 72,
    "nom": "Wada Sanzo Colors",
    "lien": "https://www.wada-sanzo-colors.com/combinations/classic/all",
    "categorie": "Couleur",
@@ -1476,49 +1050,7 @@
    "verif": false
   },
   {
-   "n": 103,
-   "nom": "Zeel Project",
-   "lien": "https://zeelproject.com/fr/",
-   "categorie": "Inspiration & veille",
-   "format": "Site / galerie",
-   "tags": [
-    "à-classer"
-   ],
-   "description": "À décrire après test.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 104,
-   "nom": "3D Brute",
-   "lien": "https://3dbrute.com/",
-   "categorie": "3D & outils numériques",
-   "format": "Site / galerie",
-   "tags": [
-    "3d",
-    "assets"
-   ],
-   "description": "À décrire après test.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 105,
-   "nom": "International Library of Fashion Research",
-   "lien": "https://fashionresearchlibrary.com/",
-   "categorie": "Culture & références",
-   "format": "Site / galerie",
-   "tags": [
-    "mode",
-    "archives",
-    "références"
-   ],
-   "description": "Bibliothèque de recherche sur la mode (à confirmer).",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 106,
+   "n": 73,
    "nom": "The Dieline",
    "lien": "https://thedieline.com/",
    "categorie": "Identité de marque & packaging",
@@ -1533,7 +1065,7 @@
    "verif": false
   },
   {
-   "n": 107,
+   "n": 74,
    "nom": "Death to Stock",
    "lien": "https://www.deathtothestockphoto.com/",
    "categorie": "Assets & banques libres",
@@ -1547,7 +1079,7 @@
    "verif": false
   },
   {
-   "n": 108,
+   "n": 75,
    "nom": "Are.na",
    "lien": "https://www.are.na/",
    "categorie": "Inspiration & veille",
@@ -1562,7 +1094,7 @@
    "verif": false
   },
   {
-   "n": 109,
+   "n": 76,
    "nom": "The Design Observer",
    "lien": "https://designobserver.com/",
    "categorie": "Culture & références",
@@ -1576,7 +1108,7 @@
    "verif": false
   },
   {
-   "n": 110,
+   "n": 77,
    "nom": "SVG Backgrounds",
    "lien": "https://www.svgbackgrounds.com/category/gradient/",
    "categorie": "Assets & banques libres",
@@ -1591,7 +1123,7 @@
    "verif": false
   },
   {
-   "n": 111,
+   "n": 78,
    "nom": "Coolors",
    "lien": "https://coolors.co/",
    "categorie": "Couleur",
@@ -1606,7 +1138,7 @@
    "verif": false
   },
   {
-   "n": 112,
+   "n": 79,
    "nom": "Shader Gradient",
    "lien": "https://shadergradient.co/",
    "categorie": "3D & outils numériques",
@@ -1621,20 +1153,7 @@
    "verif": false
   },
   {
-   "n": 113,
-   "nom": "Foleo Designs",
-   "lien": "https://www.foleo.design/",
-   "categorie": "Web design & portfolio",
-   "format": "Site / galerie",
-   "tags": [
-    "à-classer"
-   ],
-   "description": "À décrire après test.",
-   "cout": "À vérifier",
-   "verif": true
-  },
-  {
-   "n": 114,
+   "n": 80,
    "nom": "Readymag",
    "lien": "https://readymag.com/",
    "categorie": "Web design & portfolio",
@@ -1650,7 +1169,7 @@
    "verif": false
   },
   {
-   "n": 115,
+   "n": 81,
    "nom": "Httpster",
    "lien": "https://httpster.net/",
    "categorie": "Web design & portfolio",
@@ -1664,7 +1183,7 @@
    "verif": false
   },
   {
-   "n": 116,
+   "n": 82,
    "nom": "Milkshake",
    "lien": "https://milkshake.app/",
    "categorie": "Web design & portfolio",
