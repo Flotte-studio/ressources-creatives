@@ -135,7 +135,7 @@ function render() {
     const li = el("li"), body = el("div"); const url = safeUrl(i.lien);
     li.appendChild(el("span", "num", i.n ? String(i.n).padStart(3, "0") : "—"));
     const name = url ? el("a", "name", i.nom) : el("span", "name", i.nom);
-    if (url) { name.href = url; name.target = "_blank"; name.rel = "noopener noreferrer"; }
+    if (url) {       name.href = url; name.target = "_blank"; name.rel = "noopener noreferrer";       const cle = i.n ? String(i.n).padStart(3, "0") : norm(i.nom).replace(/[^a-z0-9]+/g, "-");       const compter = () => {         if (window.goatcounter && window.goatcounter.count) {           window.goatcounter.count({ path: "clic/" + cle, title: i.nom, event: true });         }       };       name.addEventListener("click", compter);       name.addEventListener("auxclick", compter);     }
     body.appendChild(name);
     body.appendChild(el("p", "desc", i.description));
     body.appendChild(el("p", "meta", [i.categorie, i.format, i.cout].filter(Boolean).join("  ·  ") + (i.verif ? "  ·  à confirmer" : "")));
