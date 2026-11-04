@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "items": [
   {
    "n": 1,
@@ -1194,6 +1194,52 @@
    ],
    "description": "Alternative gratuite à Linktree : un site en lien unique.",
    "cout": "Freemium",
+   "verif": false
+  },
+  {
+   "n": 83,
+   "nom": "Matali Crasset, portrait d'une designer accomplie",
+   "lien": "https://youtu.be/I2tLs1fR53A?si=yAt_dxgRjlsXPQrf",
+   "categorie": "Culture & références",
+   "format": "Chaîne YouTube",
+   "tags": [
+    "design-espace",
+    "design-produit",
+    "inspiration",
+    "interview"
+   ],
+   "description": "Cette resource est une inspiration, une opportunité de comprendre les pensées d'une designer reconnue, de comprendre son mode de fonctionnement et ses raisons qui l'a pousse à continuer de produire.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "n": 84,
+   "nom": "MockupTree",
+   "lien": "https://mockuptree.com/",
+   "categorie": "Mockups & présentation",
+   "format": "Site / galerie",
+   "tags": [
+    "design-graphique",
+    "design-produit",
+    "mockup",
+    "packaging"
+   ],
+   "description": "Site regroupant une grande variété de mockups provenant de plusieurs sites.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "n": 85,
+   "nom": "Quickposes",
+   "lien": "https://quickposes.com/en",
+   "categorie": "Illustration & dessin",
+   "format": "Site / galerie",
+   "tags": [
+    "anatomie",
+    "dessin"
+   ],
+   "description": "Quickposes is a tool for art students, illustrators or anyone who wants to focus on improving their drawing skills.",
+   "cout": "Gratuit",
    "verif": false
   }
  ]
