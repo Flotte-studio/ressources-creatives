@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "items": [
   {
    "n": 1,
@@ -1239,6 +1239,22 @@
     "dessin"
    ],
    "description": "Quickposes is a tool for art students, illustrators or anyone who wants to focus on improving their drawing skills.",
+   "cout": "Gratuit",
+   "verif": false
+  },
+  {
+   "n": 86,
+   "nom": "« Learning character design to save my character design »",
+   "lien": "https://youtu.be/5jG1YXlhdEo?is=vPC41Dg7m2Bf5fpe",
+   "categorie": "Illustration & dessin",
+   "format": "Vidéo / reportage",
+   "tags": [
+    "dessin",
+    "illustration",
+    "patterns",
+    "personnage"
+   ],
+   "description": "Cette vidéo sert à perfectionner ses compétences de conception de personnages",
    "cout": "Gratuit",
    "verif": false
   }
